@@ -9,7 +9,7 @@
 html{
     scroll-behavior: smooth;
 }
-/* Shared CSS styles  */
+
 .description-text{
     font-size: 1rem;
     font-weight: 400;
@@ -30,10 +30,10 @@ html{
     margin-bottom: 1rem;
     line-height: 2.125rem;
 }
-/* Shared CSS styles  */
 
 
-/* Nav style start  */
+
+
 header{
     width: 100%;
     background-color: #fff;
@@ -66,10 +66,10 @@ nav .nav-item button a{
     font-weight: 600;
 }
 
-/* Nav style ends */
 
 
-/* Banner section styles start  */
+
+
 .banner-container{
     width: 100%;
     height: 652px;
@@ -115,10 +115,10 @@ nav .nav-item button a{
     font-size: 1.25rem;
     font-weight: 600;
 }
-/* Banner section styles ends  */
 
 
-/* Main styles  */
+
+
 main{
     max-width: 1140px;
     margin: 0 auto!important;
@@ -126,10 +126,10 @@ main{
 section{
     margin-top: 6rem;
 }
-/* Main styles  */
 
 
-/* Why Web development and skills styles  */
+
+
 .webDevelopment-container{
     width: 100%;
     border-radius: 1rem;
@@ -173,10 +173,10 @@ section{
 .webDevelopment-container .skills-content{
     width: 60%;
 }
-/* Why Web development and skills styles  */
 
 
-/* My inspiration section styles here  */
+
+
 .myInspiration-content{
     text-align: center;
 }
@@ -198,10 +198,8 @@ section{
     height: 100%;
     border-radius: 0.625rem;
 }
-/* My inspiration section styles here  */
 
 
-/* My current target styles here  */
 .myCurrentTarget-content, .myNextTarget-content{
     text-align: center;
 }
@@ -252,11 +250,7 @@ section{
 {
     color: #0065f4;
 }
-/* My current target styles here  */
 
-
-/* Optional part  */
-/* My next targeted styles here  */
 .myNextTargeted-items .items-card{
     display: flex;
     padding: 2.5rem;
@@ -275,9 +269,7 @@ section{
     width: 150%;
 }
 
-/* My next targeted styles here  */
 
-/* Support section styles here  */
 .support-container{
     background-image: url(../assets/handshake.jpg);
     height: 313px;
@@ -326,10 +318,7 @@ section{
     margin: 0 auto;
     margin-bottom: 1.5rem;
 }
-/* Support section styles here  */
 
-
-/* Footer section styles here  */
 #footer{
     width: 100%;
     height: 100px;
@@ -353,4 +342,3 @@ section{
 .footer-content .social-items a{
     margin-left: 1.5rem;
 }
-/* Footer section styles here  */
